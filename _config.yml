@@ -1,11 +1,11 @@
 # Site settings
 author: Bria White
-title: 
+title: Brias Blog
 header-img: img/home-bg.png
 email: bria.awhite@gmail.com
 copyright_name: Bria White
 description: > # this means to ignore newlines until "baseurl:"
-  
+  SE in the making 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  B-awhite
